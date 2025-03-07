@@ -1,0 +1,5 @@
+Student 1: Score = 98, Remark = Exceeded expectation(EE)
+Student 2: Score = 76, Remark = Exceeded expectation(EE)
+Student 3: Score = 54, Remark = Met expectation(ME)
+Student 4: Score = 23, Remark = Below expectation(BE)
+Student 5: Score = 43, Remark = Approaching expectation(AE)
